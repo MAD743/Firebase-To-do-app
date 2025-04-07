@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924092660082",
+    "project_id": "fir-task-manager-6bed8",
+    "storage_bucket": "fir-task-manager-6bed8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924092660082:android:b21171bbe46b25be2105eb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiCuHapWzUj8XVzBgfcaMkQxURg6CsYJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
